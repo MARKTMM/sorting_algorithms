@@ -1,10 +1,10 @@
 #include "sort.h"
 
 /**
- * bubble_sort - bubble sort algorithms
- * @size: size input
- * @array: pointer input
- * Return: No Return
+ * bubble_sort - algos bubble sort
+ * @size: input size
+ * @array: input pointer
+ * Return: Return none
  */
 void bubble_sort(int *array, size_t size)
 {
